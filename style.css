@@ -1,14 +1,18 @@
-header{
+header {
     text-align: center;
     font-size: 200%;
-
 }
 
-
-.student-owner{
-
+.student-owner {
     border: 1px solid black;
     text-align: center;
-    font-size:150%;
+    font-size: 150%;
     color: blue;
+}
+
+.student-contributor {
+    border: 1px solid black;
+    text-align: center;
+    font-size: 150%;
+    color: darkgreen;
 }
