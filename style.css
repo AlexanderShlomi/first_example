@@ -1,5 +1,13 @@
 header{
     text-align: center;
     font-size: 200%;
-    
+
+}
+
+
+.student-owner{
+
+    border: 1px solid black;
+    text-align: center;
+    font-size:150%;
 }
